@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://RonjaCarlina.github.io/CAS2026IIIF/manifests/Stundenbuch.json",
     "label" : "[Stundenbuch]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://RonjaCarlina.github.io/CAS2026IIIF/manifests/manifest.json",
+    "label" : "[Stundenbuch]"
   } ]
 }
