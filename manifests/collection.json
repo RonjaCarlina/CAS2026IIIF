@@ -1,0 +1,13 @@
+{
+  "id" : "https://RonjaCarlina.github.io/CAS2026IIIF/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in RonjaCarlina/CAS2026IIIF project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://RonjaCarlina.github.io/CAS2026IIIF/manifests/Stundenbuch.json",
+    "label" : "[Stundenbuch]"
+  } ]
+}
