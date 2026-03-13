@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://ronjacarlina.github.io/CAS2026IIIF/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in RonjaCarlina/CAS2026IIIF project"
+        ]
+    },
+    "items": []
+}
